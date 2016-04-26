@@ -1,1 +1,17 @@
 
+<head>
+    <title>WEEK 2 -Attributes, images and links > 2.4 Images > Activities and discussion - Exercise 3</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+</head>
+<body>
+    <h1>edx-W3CxHTML5-Week2-ImagesActivity (Exercise3)</h1>
+    <h3>Informative Image - Hand Baggage</h3>
+    <img src="images/handbaggage.png" alt="Illustration of the maximum permitted size of Hand Baggage" width="600px">
+  
+   <h3>Decorative image - Background Image</h3>
+    <img src="images/freeimages.png" alt="" width="1000px">
+  
+   <h3>Images of text</h3>
+    <img src="images/flashfacts.png" alt="FLASH FACTS. The authors of the 1966 musical 'It's a bird It's a Plane! It's Superman!' also contributed to this movie">
+  
+</body>
